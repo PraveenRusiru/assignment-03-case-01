@@ -33,7 +33,7 @@ body {
 
 .corner-squares {
     width: 6.802721088435374vw;
-    height: 12.422360248447205vh;
+    height: 6.802721088435374vw;
     background-color: rgb(255, 255, 255);
 }
 
@@ -67,7 +67,7 @@ body {
 
 .mid-square {
     width: 4.081632653061225vw;
-    height: 7.453416149068323vh;
+    height: 4.081632653061225vw;
     background-color: white;
 }
 
@@ -101,7 +101,7 @@ body {
 
 .mid-circle {
     width: 10.204081632653061vw;
-    height: 18.633540372670808vh;
+    height: 10.204081632653061vw;
     background-color: white;
     border-radius: 50%;
 }
@@ -115,7 +115,7 @@ body {
 
 .mid-circle-square {
     width: 4.081632653061225vw;
-    height: 7.453416149068323vh;
+    height: 4.081632653061225vw;
     background-color: red;
 }
 
@@ -171,7 +171,7 @@ body {
 .absolute-mid-square {
     position: absolute;
     width: 13.605442176870747vw;
-    height: 24.84472049689441vh;
+    height: 13.605442176870747vw;
     background-color: rgb(255, 255, 255);
     top: 50%;
     left: 50%;
@@ -182,7 +182,7 @@ body {
 .absolute-mid-circle {
     position: relative;
     width: 6.802721088435374vw;
-    height:12.422360248447205vh;
+    height:6.802721088435374vw;
     background-color: rgb(255, 0, 0);
     top: 50%;
     left: 50%;
