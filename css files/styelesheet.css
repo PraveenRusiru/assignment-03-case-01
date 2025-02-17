@@ -1,5 +1,5 @@
 body {
-    margin: 0px;
+    margin: 0vw;
     position: fixed;
 }
 
@@ -32,76 +32,76 @@ body {
 }
 
 .corner-squares {
-    width: 100px;
-    height: 100px;
+    width: 6.802721088435374vw;
+    height: 12.422360248447205vh;
     background-color: rgb(255, 255, 255);
 }
 
 #left-top-corner {
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 0vw;
+    left: 0vw;
     border-bottom-right-radius: 100%;
 }
 
 #right-top-corner {
     position: absolute;
-    top: 0px;
-    right: 0px;
+    top: 0vw;
+    right: 0vw;
     border-bottom-left-radius: 100%;
 }
 
 #left-bottom-corner {
     position: absolute;
-    bottom: 0px;
-    left: 0px;
+    bottom: 0vw;
+    left: 0vw;
     border-top-right-radius: 100%;
 }
 
 #right-bottom-corner {
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 0vw;
+    right: 0vw;
     border-top-left-radius: 100%;
 }
 
 .mid-square {
-    width: 60px;
-    height: 60px;
+    width: 4.081632653061225vw;
+    height: 7.453416149068323vh;
     background-color: white;
 }
 
 #left-top-mid-square {
     position: absolute;
-    top: 0px;
-    right: 0px;
+    top: 0vw;
+    right: 0vw;
     border-bottom-left-radius: 100%;
 }
 
 #right-top-mid-square {
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 0vw;
+    left: 0vw;
     border-bottom-right-radius: 100%;
 }
 
 #left-bottom-mid-square {
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 0vw;
+    right: 0vw;
     border-top-left-radius: 100%;
 }
 
 #right-bottom-mid-square {
     position: absolute;
-    bottom: 0px;
-    left: 0px;
+    bottom: 0vw;
+    left: 0vw;
     border-top-right-radius: 100%;
 }
 
 .mid-circle {
-    width: 150px;
-    height: 150px;
+    width: 10.204081632653061vw;
+    height: 18.633540372670808vh;
     background-color: white;
     border-radius: 50%;
 }
@@ -114,8 +114,8 @@ body {
 }
 
 .mid-circle-square {
-    width: 60px;
-    height: 60px;
+    width: 4.081632653061225vw;
+    height: 7.453416149068323vh;
     background-color: red;
 }
 
@@ -170,8 +170,8 @@ body {
 
 .absolute-mid-square {
     position: absolute;
-    width: 200px;
-    height: 200px;
+    width: 13.605442176870747vw;
+    height: 24.84472049689441vh;
     background-color: rgb(255, 255, 255);
     top: 50%;
     left: 50%;
@@ -181,8 +181,8 @@ body {
 
 .absolute-mid-circle {
     position: relative;
-    width: 100px;
-    height: 100px;
+    width: 6.802721088435374vw;
+    height:12.422360248447205vh;
     background-color: rgb(255, 0, 0);
     top: 50%;
     left: 50%;
